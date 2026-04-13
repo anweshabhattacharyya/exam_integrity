@@ -58,6 +58,7 @@ By storing exam data and submissions securely on-chain, the system ensures compl
 
 **Contract Address:**
 `CBIBWAQLSZHNSLVHLHIND6UDFZM256QEWNQ6C5CNCEZSVRSBZATEQQBK`
+https://stellar.expert/explorer/testnet/contract/CBIBWAQLSZHNSLVHLHIND6UDFZM256QEWNQ6C5CNCEZSVRSBZATEQQBK
 
 ---
 
